@@ -1,16 +1,50 @@
-## Hi there 👋
+# Kim Kyuho
 
-<!--
-**Kim-kyuho/Kim-kyuho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer learning through the design, implementation, and operation of personal projects.
 
-Here are some ideas to get you started:
+I focus on understanding how a feature should behave before deciding how it should be implemented.  
+I use AI to accelerate implementation, but architecture, review, and final decisions remain my responsibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [KyuBoard](https://github.com/Kim-kyuho/KyuBoard)
+
+A visual workspace for organizing scattered ideas on a board.
+
+KyuBoard supports rich text memos, images, Mermaid diagrams, tables, and free drawing.  
+Board contents can be organized spatially and compiled into a single Markdown document.
+
+The project is also used to study:
+
+- interaction design across desktop, tablet, and mobile
+- pointer events, canvas navigation, and card-based interfaces
+- authentication and session management
+- database design and migrations
+- automated testing with Vitest and Playwright
+- AI-assisted board editing
+
+### [KyuBoard Lite](https://github.com/Kim-kyuho/KyuBoard-Lite)
+
+A lightweight version of KyuBoard built around browser storage.
+
+It removes the external database and image-storage dependencies so that the core board workflow can be examined and used more easily.
+
+## Development Approach
+
+- Design the behavior before implementing the details.
+- Prefer structures that fit the project over abstract best practices.
+- Keep duplicated code when explicit ownership is clearer than forced abstraction.
+- Use documentation and tests to preserve decisions made during development.
+- Treat AI as an implementation tool, not a substitute for technical judgment.
+
+## Current Focus
+
+- Stabilizing KyuBoard through automated tests
+- Improving mobile and Apple Pencil interactions
+- Introducing database migrations
+- Expanding AI-assisted board operations
+
+## Main Technologies
+
+`TypeScript` `React` `Next.js` `PostgreSQL` `Drizzle ORM`  
+`Docker` `Vitest` `Playwright` `GitHub Actions`
