@@ -1,6 +1,6 @@
-# Kim Kyuho
+# Kyuho Kim
 
-Software engineer learning through the design, implementation, and operation of personal projects.
+System Engineer learning through the design, implementation, and operation of personal projects.
 
 I focus on understanding how a feature should behave before deciding how it should be implemented.  
 I use AI to accelerate implementation, but architecture, review, and final decisions remain my responsibility.
@@ -45,6 +45,7 @@ It removes the external database and image-storage dependencies so that the core
 - Expanding AI-assisted board operations
 
 ## Main Technologies
-
-`TypeScript` `React` `Next.js` `PostgreSQL` `Drizzle ORM`  
+`Java` `C#` `Python` `JavaScript` `TypeScript` 
+`Spring boot` `ASP.Net` `React` `Next.js`
+`Oracle Database` `My SQL` `SQL Server` `PostgreSQL` 
 `Docker` `Vitest` `Playwright` `GitHub Actions`
