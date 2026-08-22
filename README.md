@@ -8,7 +8,6 @@ I use AI to accelerate implementation, but architecture, review, and final decis
 ## Projects
 
 ### [KyuBoard](https://github.com/Kim-kyuho/KyuBoard)
-![image](https://drive.google.com/file/d/169Lf7wLusOQc0N2ROuKAo9vox157ZuoJ/view?usp=sharing)
 A visual workspace for organizing scattered ideas on a board.
 
 KyuBoard supports rich text memos, images, Mermaid diagrams, tables, and free drawing.  
