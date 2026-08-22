@@ -39,8 +39,6 @@ It removes the external database and image-storage dependencies so that the core
 ## Current Focus
 
 - Stabilizing KyuBoard through automated tests
-- Improving mobile and Apple Pencil interactions
-- Introducing database migrations
 - Expanding AI-assisted board operations
 
 ## Main Technologies
