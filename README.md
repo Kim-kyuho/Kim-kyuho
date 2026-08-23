@@ -7,7 +7,7 @@ I use AI to accelerate implementation, but architecture, review, and final decis
 
 ## Projects
 
-### [KyuBoard](https://github.com/Kim-kyuho/KyuBoard)
+### [meldrift-plus](https://github.com/Kim-kyuho/meldrift-plus)
 A visual workspace for organizing scattered ideas on a board.
 
 KyuBoard supports rich text memos, images, Mermaid diagrams, tables, and free drawing.  
@@ -22,7 +22,7 @@ The project is also used to study:
 - automated testing with Vitest and Playwright
 - AI-assisted board editing
 
-### [KyuBoard Lite](https://github.com/Kim-kyuho/KyuBoard-Lite)
+### [meldrift](https://github.com/Kim-kyuho/meldrift)
 
 A lightweight version of KyuBoard built around browser storage.
 
