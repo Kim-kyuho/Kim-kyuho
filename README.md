@@ -3,7 +3,6 @@
 System Engineer learning through the design, implementation, and operation of personal projects.
 
 I focus on understanding how a feature should behave before deciding how it should be implemented.  
-I use AI to accelerate implementation, but architecture, review, and final decisions remain my responsibility.
 
 ## Projects
 
