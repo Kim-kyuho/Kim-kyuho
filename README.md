@@ -6,13 +6,14 @@ I focus on understanding how a feature should behave before deciding how it shou
 
 ## Projects
 
-### [meldrift](https://github.com/Kim-kyuho/meldrift)
+### [Meldrift](https://github.com/Kim-kyuho/meldrift)
+
 A visual workspace for organizing scattered ideas on a board.
 
-KyuBoard supports rich text memos, images, Mermaid diagrams, tables, and free drawing.  
+Meldrift supports rich text memos, images, Mermaid diagrams, tables, and free drawing.
 Board contents can be organized spatially and compiled into a single Markdown document.
 
-The project is also used to study:
+The project explores:
 
 - interaction design across desktop, tablet, and mobile
 - pointer events, canvas navigation, and card-based interfaces
@@ -20,6 +21,8 @@ The project is also used to study:
 - database design and migrations
 - automated testing with Vitest and Playwright
 - AI-assisted board editing
+
+This project is currently under active development.
 
 ## Development Approach
 
@@ -31,8 +34,8 @@ The project is also used to study:
 
 ## Current Focus
 
-- Stabilizing KyuBoard through automated tests
-- Expanding AI-assisted board operations
+- Test automation and broader test coverage
+- Improving the project structure and maintainability
 
 ## Main Technologies
 `Java` `C#` `Python` `JavaScript` `TypeScript` 
